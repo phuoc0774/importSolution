@@ -1,0 +1,12 @@
+C:\Users\MyPC\Downloads\project\import\ImportService\ModelClassLibrary\obj\Debug\netcoreapp2.1\ModelClassLibrary.csprojAssemblyReference.cache
+C:\Users\MyPC\Downloads\project\import\ImportService\ModelClassLibrary\obj\Debug\netcoreapp2.1\ModelClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\Downloads\project\import\ImportService\ModelClassLibrary\obj\Debug\netcoreapp2.1\ModelClassLibrary.AssemblyInfoInputs.cache
+C:\Users\MyPC\Downloads\project\import\ImportService\ModelClassLibrary\obj\Debug\netcoreapp2.1\ModelClassLibrary.AssemblyInfo.cs
+C:\Users\MyPC\Downloads\project\import\ImportService\ModelClassLibrary\bin\Debug\netcoreapp2.1\ModelClassLibrary.deps.json
+C:\Users\MyPC\Downloads\project\import\ImportService\ModelClassLibrary\bin\Debug\netcoreapp2.1\ModelClassLibrary.dll
+C:\Users\MyPC\Downloads\project\import\ImportService\ModelClassLibrary\bin\Debug\netcoreapp2.1\ModelClassLibrary.pdb
+C:\Users\MyPC\Downloads\project\import\ImportService\ModelClassLibrary\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\MyPC\Downloads\project\import\ImportService\ModelClassLibrary\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\MyPC\Downloads\project\import\ImportService\ModelClassLibrary\obj\Debug\netcoreapp2.1\ModelClassLibrary.csproj.CopyComplete
+C:\Users\MyPC\Downloads\project\import\ImportService\ModelClassLibrary\obj\Debug\netcoreapp2.1\ModelClassLibrary.dll
+C:\Users\MyPC\Downloads\project\import\ImportService\ModelClassLibrary\obj\Debug\netcoreapp2.1\ModelClassLibrary.pdb

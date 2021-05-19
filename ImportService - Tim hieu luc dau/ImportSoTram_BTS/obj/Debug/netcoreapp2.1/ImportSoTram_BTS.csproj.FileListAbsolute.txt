@@ -1,0 +1,17 @@
+C:\Users\MyPC\Downloads\project\import\ImportService\ImportSoTram_BTS\obj\Debug\netcoreapp2.1\ImportSoTram_BTS.csprojAssemblyReference.cache
+C:\Users\MyPC\Downloads\project\import\ImportService\ImportSoTram_BTS\obj\Debug\netcoreapp2.1\ImportSoTram_BTS.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\Downloads\project\import\ImportService\ImportSoTram_BTS\obj\Debug\netcoreapp2.1\ImportSoTram_BTS.RazorAssemblyInfo.cache
+C:\Users\MyPC\Downloads\project\import\ImportService\ImportSoTram_BTS\obj\Debug\netcoreapp2.1\ImportSoTram_BTS.RazorAssemblyInfo.cs
+C:\Users\MyPC\Downloads\project\import\ImportService\ImportSoTram_BTS\obj\Debug\netcoreapp2.1\ImportSoTram_BTS.AssemblyInfoInputs.cache
+C:\Users\MyPC\Downloads\project\import\ImportService\ImportSoTram_BTS\obj\Debug\netcoreapp2.1\ImportSoTram_BTS.AssemblyInfo.cs
+C:\Users\MyPC\Downloads\project\import\ImportService\ImportSoTram_BTS\bin\Debug\netcoreapp2.1\ImportSoTram_BTS.deps.json
+C:\Users\MyPC\Downloads\project\import\ImportService\ImportSoTram_BTS\bin\Debug\netcoreapp2.1\ImportSoTram_BTS.runtimeconfig.json
+C:\Users\MyPC\Downloads\project\import\ImportService\ImportSoTram_BTS\bin\Debug\netcoreapp2.1\ImportSoTram_BTS.runtimeconfig.dev.json
+C:\Users\MyPC\Downloads\project\import\ImportService\ImportSoTram_BTS\bin\Debug\netcoreapp2.1\ImportSoTram_BTS.dll
+C:\Users\MyPC\Downloads\project\import\ImportService\ImportSoTram_BTS\bin\Debug\netcoreapp2.1\ImportSoTram_BTS.pdb
+C:\Users\MyPC\Downloads\project\import\ImportService\ImportSoTram_BTS\bin\Debug\netcoreapp2.1\ModelClassLibrary.dll
+C:\Users\MyPC\Downloads\project\import\ImportService\ImportSoTram_BTS\bin\Debug\netcoreapp2.1\ModelClassLibrary.pdb
+C:\Users\MyPC\Downloads\project\import\ImportService\ImportSoTram_BTS\obj\Debug\netcoreapp2.1\ImportSoTram_BTS.RazorTargetAssemblyInfo.cache
+C:\Users\MyPC\Downloads\project\import\ImportService\ImportSoTram_BTS\obj\Debug\netcoreapp2.1\ImportSoTram_BTS.csproj.CopyComplete
+C:\Users\MyPC\Downloads\project\import\ImportService\ImportSoTram_BTS\obj\Debug\netcoreapp2.1\ImportSoTram_BTS.dll
+C:\Users\MyPC\Downloads\project\import\ImportService\ImportSoTram_BTS\obj\Debug\netcoreapp2.1\ImportSoTram_BTS.pdb

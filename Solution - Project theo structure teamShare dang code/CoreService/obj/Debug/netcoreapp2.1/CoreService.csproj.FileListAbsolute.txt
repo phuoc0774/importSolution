@@ -1,0 +1,17 @@
+C:\Users\MyPC\Downloads\project\import2\Solution\CoreService\bin\Debug\netcoreapp2.1\CoreService.deps.json
+C:\Users\MyPC\Downloads\project\import2\Solution\CoreService\bin\Debug\netcoreapp2.1\CoreService.runtimeconfig.json
+C:\Users\MyPC\Downloads\project\import2\Solution\CoreService\bin\Debug\netcoreapp2.1\CoreService.runtimeconfig.dev.json
+C:\Users\MyPC\Downloads\project\import2\Solution\CoreService\bin\Debug\netcoreapp2.1\CoreService.dll
+C:\Users\MyPC\Downloads\project\import2\Solution\CoreService\bin\Debug\netcoreapp2.1\CoreService.pdb
+C:\Users\MyPC\Downloads\project\import2\Solution\CoreService\bin\Debug\netcoreapp2.1\ModelClassLibrary.dll
+C:\Users\MyPC\Downloads\project\import2\Solution\CoreService\bin\Debug\netcoreapp2.1\ModelClassLibrary.pdb
+C:\Users\MyPC\Downloads\project\import2\Solution\CoreService\obj\Debug\netcoreapp2.1\CoreService.csprojAssemblyReference.cache
+C:\Users\MyPC\Downloads\project\import2\Solution\CoreService\obj\Debug\netcoreapp2.1\CoreService.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\Downloads\project\import2\Solution\CoreService\obj\Debug\netcoreapp2.1\CoreService.RazorAssemblyInfo.cache
+C:\Users\MyPC\Downloads\project\import2\Solution\CoreService\obj\Debug\netcoreapp2.1\CoreService.RazorAssemblyInfo.cs
+C:\Users\MyPC\Downloads\project\import2\Solution\CoreService\obj\Debug\netcoreapp2.1\CoreService.AssemblyInfoInputs.cache
+C:\Users\MyPC\Downloads\project\import2\Solution\CoreService\obj\Debug\netcoreapp2.1\CoreService.AssemblyInfo.cs
+C:\Users\MyPC\Downloads\project\import2\Solution\CoreService\obj\Debug\netcoreapp2.1\CoreService.RazorTargetAssemblyInfo.cache
+C:\Users\MyPC\Downloads\project\import2\Solution\CoreService\obj\Debug\netcoreapp2.1\CoreService.csproj.CopyComplete
+C:\Users\MyPC\Downloads\project\import2\Solution\CoreService\obj\Debug\netcoreapp2.1\CoreService.dll
+C:\Users\MyPC\Downloads\project\import2\Solution\CoreService\obj\Debug\netcoreapp2.1\CoreService.pdb

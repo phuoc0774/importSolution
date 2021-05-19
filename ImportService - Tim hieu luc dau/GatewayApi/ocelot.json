@@ -1,0 +1,108 @@
+{
+  "ReRoutes": [
+    {
+      "DownstreamPathTemplate": "/api/sotrambts/{catchAll}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8000
+        }
+      ],
+      "UpstreamPathTemplate": "/api/sotrambts/{catchAll}"
+      ,"UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ]
+    }
+    //,
+    //{
+    //  "DownstreamPathTemplate": "/api/fiber/{catchAll}",
+    //  "DownstreamScheme": "http",
+    //  "DownstreamHostAndPorts": [
+    //    {
+    //      "Host": "localhost",
+    //      "Port": 2003
+    //    }
+    //  ],
+    //  "UpstreamPathTemplate": "/api/fiber/{catchAll}",
+    //  //"LoadBalancerOptions": { "Type": "RoundRobin" },
+    //  "UpstreamHttpMethod": [ "Options", "Get", "Post", "Put", "Delete" ],
+    //  "AuthenticationOptions": {
+    //    "AuthenticationProviderKey": "TestKey",
+    //    "AllowedScopes": []
+    //  },
+    //  "QoSOptions": {
+    //    "ExceptionsAllowedBeforeBreaking": 1,
+    //    "DurationOfBreak": 7000000,
+    //    "TimeoutValue": 7000000
+
+    //  },
+    //  "RateLimitOptions": {
+    //    "ClientWhitelist": [],
+    //    "EnableRateLimiting": true,
+    //    "Period": "10s",
+    //    "PeriodTimespan": 1,
+    //    "Limit": 10
+    //  }
+    //},
+    //{
+    //  "DownstreamPathTemplate": "/api/user/{catchAll}",
+    //  "DownstreamScheme": "http",
+    //  "DownstreamHostAndPorts": [
+    //    {
+    //      "Host": "localhost",
+    //      "Port": 3003
+    //    }
+    //  ],
+    //  "UpstreamPathTemplate": "/api/user/{catchAll}",
+    //  "UpstreamHttpMethod": [ "Options", "Get", "Post", "Put", "Delete" ],
+    //  "AuthenticationOptions": {
+    //    "AuthenticationProviderKey": "TestKey",
+    //    "AllowedScopes": []
+    //  },
+    //  "QoSOptions": {
+    //    "ExceptionsAllowedBeforeBreaking": 1,
+    //    "DurationOfBreak": 7000,
+    //    "TimeoutValue": 7000
+    //  },
+    //  "RateLimitOptions": {
+    //    "ClientWhitelist": [],
+    //    "EnableRateLimiting": true,
+    //    "Period": "10s",
+    //    "PeriodTimespan": 1,
+    //    "Limit": 10
+    //  }
+    //},
+    //{
+    //  "DownstreamPathTemplate": "/api/permission/{catchAll}",
+    //  "DownstreamScheme": "http",
+    //  "DownstreamHostAndPorts": [
+    //    {
+    //      "Host": "localhost",
+    //      "Port": 2006
+    //    }
+    //  ],
+    //  "UpstreamPathTemplate": "/api/permission/{catchAll}",
+    //  "UpstreamHttpMethod": [ "Options", "Get", "Post", "Put", "Delete" ],
+    //  "AuthenticationOptions": {
+    //    "AuthenticationProviderKey": "TestKey",
+    //    "AllowedScopes": []
+    //  },
+    //  "QoSOptions": {
+    //    "ExceptionsAllowedBeforeBreaking": 1,
+    //    "DurationOfBreak": 7200001,
+    //    "TimeoutValue": 7200000
+    //  },
+    //  "RateLimitOptions": {
+    //    "ClientWhitelist": [],
+    //    "EnableRateLimiting": true,
+    //    "Period": "10s",
+    //    "PeriodTimespan": 1,
+    //    "Limit": 10
+    //  }
+    //}
+  ],
+  "GlobalConfiguration": {
+    "RequestIdKey": "OcRequestId",
+    "AdministrationPath": "/administration"
+  }
+}
+
